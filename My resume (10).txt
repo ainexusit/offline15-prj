@@ -1,0 +1,68 @@
+Suraj Rajendra Sabale 
+Data Engineer
+
+Phone: 9322038255
+Email: surajsabale2002@gmail.com
+Address: Blue Spring Apartment Block- C Flat No.- C203,Telco Colony, Shani Nagar, Ambegaon BK, Pune.Maharashtra, 411046
+
+Education
+BSC (Computer Science)
+MIT World Peace University,Pune.
+CGPA - 8.9 (2023)
+
+MSC (Blockchain Technology)
+MIT World Peace University,Pune.
+CGPA - 7.9 (2025)
+
+Skills
+SQL
+Data Warehousing
+Big Data
+Apache Hadoop
+NoSQL
+Cloud Computing
+Data Analysis
+Pyspark
+Data Validation
+Data bricks
+Azure Data Factory | Azure Data Lake
+Azure VM
+Azure RBAC
+AWS Lambda
+Event Bridge
+AWS Glue
+AWS Glue Crawlers
+Python
+ETL
+Data Mining
+Apache Spark
+Data Modeling
+Data Visualization
+Business Intelligence
+Data Migration
+Data Cleaning
+AWS | S3 | RDS | Redshift | Step Function
+Azure Monitoring | Azure Database
+Azure Synapse
+AWS Athena
+AWS Quicksights
+SNS | SQS | SES
+Unity Catalog
+Azure Logic app | ADLS Gen2 | Azure Functions
+Snowflake
+AWS Kafka
+AWS Kinesis
+AWS Sagemaker
+GIT
+CICD | Jenkins
+
+Languages
+English
+Hindi
+Marathi
+
+Hobbies
+Reading
+Bike riding
+Drawing
+

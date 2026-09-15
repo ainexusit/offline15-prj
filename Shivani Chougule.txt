@@ -1,0 +1,65 @@
+Shivani Chougule
+
+Phone: 830445459
+Email: sc18091201@gmail.com
+Address: India, Pune
+
+Education
+2016 - 2018
+Master of Business Administration (MBA)
+Shivaji University
+India, kolhapur
+
+Skills
+SQL
+Data Warehousing
+Big Data
+Apache Hadoop
+NoSQL
+Cloud Computing
+Data Analysis
+Pyspark
+Data Validation
+Data bricks
+Azure Data Factory | Azure Data Lake
+Azure VM
+Azure RBAC
+AWS Lambda
+Event Bridge
+AWS Glue
+AWS Glue Crawlers
+Python
+ETL
+Data Mining
+Apache Spark
+Data Modeling
+Data Visualization
+Business Intelligence
+Data Migration
+Data Cleaning
+AWS | S3 | RDS | Redshift | Step Function
+Azure Monitoring | Azure Database
+Azure Synapse
+AWS Athena
+AWS Quicksights
+SNS | SQS | SES
+Unity Catalog
+Azure Logic app | ADLS Gen2 | Azure Functions
+Snowflake
+AWS Kafka
+AWS Kinesis
+AWS Sagemaker
+GIT
+CICD | Jenkins
+
+
+Languages
+Marathi
+Hindi
+English
+
+Hobbies
+Photography
+Traveling
+Cooking
+
